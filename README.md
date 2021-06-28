@@ -1,4 +1,10 @@
 # Canadian Treasury Analysis
+## Calculate the yield, spot and forward curve for 1-5 years
+Covers:
+- Data gathering
+- Yield Curve
+- Bootstrapping the spot curve
+- Forward Curve
 
 Check out the Analysis [[Notebook]](https://nbviewer.jupyter.org/github/SebastianLech/treasury_analysis/blob/main/treasury_analysis_nb.ipynb)
 
@@ -19,6 +25,7 @@ Results:
 |  5.0 | 0.009285 | 0.009719 | 0.019221 |
 ```
 
+Samples:
 ![Yield](5_year_yield.png)
 
 ![spot](5_year_spot.png)
